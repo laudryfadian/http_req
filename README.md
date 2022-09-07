@@ -1,6 +1,6 @@
 # http_req
 
-A new Flutter project.
+HTTP Request Example
 
 ## Result
 
